@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "encriptador-de-texto",
+    "builds": [
+      { "src": "index.html", "use": "@vercel/static" }
+    ]
+  }
+  
